@@ -1,0 +1,10 @@
+Package: com.desync.weathertweak
+Name: Desync's Tweak
+Description: My first tweak that has no clear purpose
+Maintainer: Desyncfy
+Author: Desyncfy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0.0-26+debug
+Installed-Size: 24
